@@ -50,5 +50,5 @@
 
 ### Example Usage
 ```python
-text_prompt = "dog"
+text_prompt = "cat"
 mask, points = text_driven_segmentation(input_image, text_prompt)
